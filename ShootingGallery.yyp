@@ -82,7 +82,7 @@
             "Key": "5e370e43-cf59-45a7-b58b-5729f0e69db2",
             "Value": {
                 "id": "55908201-1ce0-4fb5-a668-f29478f7d793",
-                "resourcePath": "objects\\object0\\object0.yy",
+                "resourcePath": "objects\\Obj_crosshair\\Obj_crosshair.yy",
                 "resourceType": "GMObject"
             }
         },
